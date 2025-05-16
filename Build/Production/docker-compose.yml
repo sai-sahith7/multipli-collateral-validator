@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  app:
+    build:
+      context: ../..
+      dockerfile: Build/Production/Dockerfile
+    container_name: multipli_dac_service
+    restart: always
+    env_file:
+      - ../../.env
+    ports:
+      - "8000:8000"
+    volumes:
+      - ../..:/app
+
