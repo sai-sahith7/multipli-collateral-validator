@@ -1,7 +1,10 @@
+> [!WARNING]
+> This repository has been deprecated. Please contact us at <support@multipli.fi> to gain access to the new repository.
+
 # Multipli Collateral Validator
-#
+
 <p align="center">
-  <img src="https://multipli.fi/_next/static/media/multipli-logo.f81117d7.png" />
+  <img src="https://app.multipli.fi/logo.svg" />
 </p>
 
 ## Overview
