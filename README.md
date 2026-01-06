@@ -1,5 +1,4 @@
-> [!WARNING]
-> This repository has been deprecated. Please contact us at <support@multipli.fi> to gain access to the new repository.
+ This repository has been deprecated. Please contact us at <support@multipli.fi> to gain access to the new repository.
 
 # Multipli Collateral Validator
 
